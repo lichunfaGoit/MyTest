@@ -6,6 +6,7 @@ public class Test {
 
 		System.out.println("asdfdsfdsf");
 		System.out.println("");
+		System.out.println("你好");
 	}
 
 }
